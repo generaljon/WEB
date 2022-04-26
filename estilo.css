@@ -1,0 +1,47 @@
+body{
+    background-color: #F0F0F0;
+}
+.templete{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+.titulo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size:30px;
+    margin:auto;
+    text-align: center;
+}
+
+.menu {
+    background-color: #16B6F2;
+    margin-bottom: 0%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar{
+    margin-left:1%;
+}
+.margem {
+    margin-top: 0.01%;
+}
+.imagem{
+    margin-left:auto
+}
+
+.imagemsomos{
+    border-style: solid;
+    border-radius:80%;
+}
+.textosomos{
+    margin-left:1%;
+    background-color: white;
+}
+.textobase{
+    background-color: white;
+}
+.textocontato{
+    margin-left:1%;
+    background-color: white;
+}
