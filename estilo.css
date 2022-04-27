@@ -45,3 +45,14 @@ body{
     margin-left:1%;
     background-color: white;
 }
+.bg-footer{
+    background-color: aqua;
+    margin-bottom: 0%;
+}
+.margem2 {
+    margin-bottom: 0%;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
